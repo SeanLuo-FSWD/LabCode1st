@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace LabCode1st.Data.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20211007053039_M1")]
+    [Migration("20211013234238_M1")]
     partial class M1
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
